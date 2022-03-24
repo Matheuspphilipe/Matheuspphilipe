@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matheuspphilipe
+- 👋 Hi, I’m Matheuspphilipe
 - 👀 I’m interested in learn codding and work with it.
 - 🌱 I’m currently learning Python, studying by myself from home.
 - 💞️ I’m looking to collaborate on projects, questions or whatever that I could help.
